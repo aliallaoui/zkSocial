@@ -292,10 +292,6 @@ body {
     background: #E1E1E1;
 }
 
-.newsfeedPanel .z-caption-content {
-	display: none;
-}
-
 .newsfeedPanel .toolbar table {
 	width: 100%;
 }
